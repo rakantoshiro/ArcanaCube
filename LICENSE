@@ -1,53 +1,61 @@
-ArcanaCube – Licence Personnalisée
+# 📜 Licence Personnalisée – ArcanaCube
 
-Copyright (c) 2025 Rakantohsiro
+Copyright (c) 2025 Rakantoshiro
 
 ---
 
-## 📜 Conditions générales
+## 🧾 Conditions d'utilisation
 
-Le code source du jeu ArcanaCube est mis à disposition à des fins de collaboration, d'apprentissage et d'amélioration communautaire.  
-Toute utilisation commerciale est interdite sans autorisation explicite de l’autrice.
+Le code source et les éléments non commerciaux d’ArcanaCube sont accessibles à des fins de contribution, d’apprentissage et de développement communautaire.
+
+Toute utilisation commerciale est **strictement interdite** sans autorisation écrite de **Rakantoshiro**.
 
 ---
 
 ## ✅ Autorisé
 
-- Lire, étudier et modifier le code
+- Étudier, utiliser et modifier le code pour un usage personnel ou communautaire non commercial
 - Proposer des améliorations via pull request
-- Partager le projet non modifié (avec attribution)
-- Créer des forks pour usage personnel ou communautaire non commercial
+- Partager le projet non modifié avec attribution à Rakantoshiro
+- Créer des forks pour usage personnel
 
 ---
 
 ## ❌ Interdit
 
-- Toute utilisation commerciale sans l'accord écrit d’Amélie Arsac Crozet
-- Publier ou vendre des versions dérivées du jeu
-- Intégrer les assets ou le code dans des projets à but lucratif
-- Intégrer directement des modifications sans validation officielle
+- Revendre ou commercialiser tout ou partie du projet, y compris ses forks
+- Utiliser le code ou les assets dans un projet à but lucratif
+- Intégrer des modifications directement sans validation officielle
+- Supprimer la mention de l’auteur original
 
 ---
 
-## 🤝 Contribution
+## 👥 Contributions
 
-- Les contributions sont bienvenues via GitHub.
-- Toute modification doit passer par une **pull request** vers la branche `develop`.
-- Les commits ne seront intégrés que s’ils sont validés par **Amélie Arsac Crozet** ou son équipe.
+- Toutes les contributions passent par **pull request** vers la branche `develop`
+- Aucun commit ne sera intégré sans validation de Rakantoshiro ou des référents désignés
+- En contribuant, vous acceptez que vos modifications puissent être réutilisées ou modifiées dans le projet officiel
 
 ---
 
-## 👩‍💻 Droits commerciaux exclusifs
+## 🔒 Droits exclusifs
 
-Seule **Amélie Arsac Crozet** (créatrice d'ArcanaCube) détient le droit exclusif de :
+Rakantoshiro se réserve le droit exclusif de :
 
-- Commercialiser le jeu
-- Publier des versions officielles
-- Distribuer sous une forme payante
+- Commercialiser ArcanaCube
+- Distribuer le jeu sous forme payante
+- Délivrer ou refuser des licences commerciales à des tiers
 
 ---
 
 ## 📩 Contact
 
-Pour toute demande de partenariat, usage commercial ou autre exception :  
-📧 contact : [ton email pro ou formulaire de contact du site à venir]
+Pour toute demande d’autorisation ou de partenariat :
+✉️ rakantoshiro@gmail.com
+
+---
+
+## 🧙 Remerciements
+
+Merci à tous ceux qui participent à la création collective d’ArcanaCube.  
+Ce projet existe grâce à votre passion, votre imagination et votre bienveillance ✨
